@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Akinslius
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me akinyemi.akinwande@yahoo.com
+- 👀 I’m interested in learning both frontend & backend.
+- 🌱 I’m currently learning html, css & php
+- 💞️ I’m looking to collaborate on project that will make me advance quickly in web development. I'm willing to learn
+- 📫 How to reach me on Tel: 08162606627, Email: akinyemi.akinwande@yahoo.com, linkedin: https://wwww.linkedin.com/in/akinyemi-akinwande
 
 <!---
 Akinslius/Akinslius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
